@@ -4,5 +4,7 @@
 + PickupLocation with `address` and `city` properties*/
 
 function Scooter (year, color, model) {
-  
+  console.log(year)
+  console.log(color)
+  console.log(model)
 }
